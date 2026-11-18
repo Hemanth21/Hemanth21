@@ -4,7 +4,7 @@
 
 I like the parts of a system that have to be right when nobody is watching: the redirect on a tight latency budget, the queue that must not deliver twice, the migration that can't be rolled back.
 
-📍 Bengaluru · 🎓 M.Tech in AI, IIT Madras (in progress) · 💼 Open to senior backend / platform roles
+📍 Bengaluru · 🎓 M.Tech in AI, IIT Madras (in progress) · 💼 Open to Senior Backend, Lead Engineer and SMTS roles
 
 ---
 
