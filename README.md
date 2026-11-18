@@ -1,6 +1,6 @@
 # Hi, I'm Hemanth 👋
 
-**Backend engineer** with ~6 years building Java/Spring Boot microservices at Appian, OpenText and TCS. Since Oct 2025 I've been building **[Bareium](https://bareium.com)**, a link-infrastructure platform, on my own, from an empty repository to production.
+**Backend engineer** with ~7 years building Java/Spring Boot microservices at Appian, OpenText and TCS. Since Oct 2025 I've been building **[Bareium](https://bareium.com)**, a link-infrastructure platform, on my own, from an empty repository to production.
 
 I like the parts of a system that have to be right when nobody is watching: the redirect on a tight latency budget, the queue that must not deliver twice, the migration that can't be rolled back.
 
